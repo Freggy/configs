@@ -1,16 +1,36 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-08-12T10:25:07</property>
+    <property name="created">2020-03-31T14:32:47</property>
     <property name="ide">GoLand</property>
-    <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-12T10:25:20</property>
+    <property name="ideVersion">2019.3.4.0.0</property>
+    <property name="modified">2020-03-31T14:33:06</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
+    <option name="BASH.CONDITIONAL">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="BASH.FUNCTION_DEF_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="BASH.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
     <option name="DOCKER_COMMA">
       <value>
         <option name="FOREGROUND" value="569cd6" />
@@ -183,9 +203,147 @@
         <option name="FOREGROUND" value="569cd6" />
       </value>
     </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="HTTP_HEADER_FIELD_NAME">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HTTP_REQUEST_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="9160dc" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="JS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="9160dc" />
+      </value>
+    </option>
+    <option name="JS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="JSON.COLON">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="JSON.COMMA">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="JSON.VALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="9160dc" />
+      </value>
+    </option>
+    <option name="MAKEFILE_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="9160dc" />
+      </value>
+    </option>
+    <option name="MAKEFILE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="MAKEFILE_LINE_SPLIT">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="MAKEFILE_PREREQUISITE">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BOLD_MARKER">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_5">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_6">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_ITALIC_MARKER">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="MARKDOWN_LINK_DESTINATION">
+      <value>
+        <option name="FOREGROUND" value="9160dc" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PROTO_KEYWORD">
@@ -194,12 +352,43 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="SQL_COMMA">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
     <option name="SQL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="569cd6" />
       </value>
     </option>
+    <option name="SQL_PROCEDURE">
+      <value>
+        <option name="FOREGROUND" value="9160dc" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SQL_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
     <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="569cd6" />
+      </value>
+    </option>
+    <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="569cd6" />
       </value>
